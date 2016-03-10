@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Calculator</string>
+    <string name="set_the_rounding_precision">Stel de afronding precisie</string>
+    <string name="select_the_rounding_mode">Selecteer de afronding modus</string>
+    <string name="rounding_mode"> afronding modus</string>
+    <string name="rounded_decimal_places">Afgeronde decimalen</string>
+    <string name="pref_rounding_title">afronding ingeschakeld</string>
+    <string name="pref_rounding"> afronden</string>
+    <string name="other">ander</string>
+    <string name="menu_settings">instellingen</string>
+    <string name="auto_calculate_summary">Berekent automatisch zonder dat u op de knop drukt gelijken</string>
+    <string name="auto_calculate">automatisch berekenen</string>
+    <string name="clear">duidelijk</string>
+    <string name="Infinity">oneindigheid</string>
+    <string name="dot">,</string>
+    <string name="fix_parentheses">fix haakjes</string>
+    <string name="undefined">onbepaald</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Calculator</string>
+    <string name="clear">명확한</string>
+    <string name="menu_settings">설정</string>
+    <string name="auto_calculate_summary">자동 등호 버튼을 누르지 않아도 계산</string>
+    <string name="auto_calculate">자동 계산</string>
+    <string name="other">다른</string>
+    <string name="pref_rounding">반올림</string>
+    <string name="pref_rounding_title">반올림이 활성화</string>
+    <string name="rounded_decimal_places">둥근 소수점</string>
+    <string name="rounding_mode">반올림 모드</string>
+    <string name="select_the_rounding_mode">반올림 모드를 선택합니다</string>
+    <string name="set_the_rounding_precision">반올림 정밀도를 설정</string>
+    <string name="Infinity"> 무한대</string>
+    <string name="dot">.</string>
+    <string name="fix_parentheses">괄호를 수정</string>
+    <string name="undefined">정의되지 않은</string>
+</resources>

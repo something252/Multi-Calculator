@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="RoundingPrecisionAmount" translatable="false">
+        <item name="0">0</item>
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+        <item name="8">8</item>
+        <item name="9">9</item>
+        <item name="10">10</item>
+        <item name="11">11</item>
+        <item name="12">12</item>
+        <item name="13">13</item>
+        <item name="14">14</item>
+        <item name="15">15</item>
+        <item name="16">16</item>
+        <item name="17">17</item>
+        <item name="18">18</item>
+        <item name="19">19</item>
+        <item name="20">20</item>
+    </string-array>
+    <string-array name="RoundingModeType" translatable="false">
+        <item name="0">Up</item>
+        <item name="1">Down</item>
+        <item name="2">Ceiling</item>
+        <item name="3">Floor</item>
+        <item name="4">Half Up</item>
+        <item name="5">Half Down</item>
+        <item name="6">Half Even</item>
+    </string-array>
+
+    <!--
+     <string-array name="syncFrequency">
+        <item name="1">Once a day</item>
+        <item name="7">Once a week</item>
+        <item name="3">Once a year</item>
+        <item name="0">Never (Update maually)</item>
+     </string-array>
+     <string-array name="syncFrequencyValues">
+        <item name="1">1</item>
+        <item name="7">7</item>
+        <item name="30">30</item>
+        <item name="0">0</item>
+     </string-array>
+    -->
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Multi Calculator</string>
+    <string name="clear">Clear</string>
+    <string name="backspace" translatable="false">\u2190</string>
+    <string name="Parenthesisleft" translatable="false">(</string>
+    <string name="ParenthesisRight" translatable="false">)</string>
+    <string name="equals" translatable="false">=</string>
+    <string name="mult" translatable="false">×</string>
+    <string name="div" translatable="false">÷</string>
+    <string name="dot">.</string>
+    <string name="add" translatable="false">+</string>
+    <string name="sub" translatable="false">-</string>
+    <string name="mod" translatable="false">%</string>
+    <string name="pow" translatable="false">^</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+
+    <string name="fix_parentheses" translatable="true">Fix Parentheses</string>
+    <string name="undefined" translatable="true">Undefined</string>
+    <string name="Infinity" translatable="true">Infinity</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4937042518686367/6728320930</string>
+    <!--<string name="banner_ad_unit_id2" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+
+    <!--
+    <string name="discount1">Find discount value before applied discount</string>
+    <string name="discount2">Find discount value after applied discount</string>
+    <string name="compute">Compute</string>
+    <string name="discount1a">Enter discounted value</string>
+    <string name="discount1b">Enter discount that was applied</string>
+    <string name="percentsign" translatable="false">%</string>
+    <string name="dollarsign">$</string>
+    <string name="discounter">Discounter</string> -->
+
+    <string name="menu_settings">Settings</string>
+
+    <string name="pref_rounding">Rounding</string>
+    <string name="pref_rounding_title">Rounding enabled</string>
+
+    <string name="rounded_decimal_places">Rounded decimal places</string>
+    <string name="set_the_rounding_precision">Set the rounding precision</string>
+
+    <string name="rounding_mode">Rounding mode</string>
+    <string name="select_the_rounding_mode">Select the rounding mode</string>
+
+    <string name="other">Other</string>
+
+    <string name="auto_calculate">Automatic calculate</string>
+    <string name="auto_calculate_summary">Automatically calculate without having to press the equals button</string>
+
+
+
+</resources>
